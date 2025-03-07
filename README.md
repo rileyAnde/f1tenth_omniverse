@@ -6,26 +6,26 @@ A robust, physics-accurate omniverse simulation for f1tenth racing.
 
 1. Install NVIDIA Omniverse IsaacSim by downloading the most current [version, here] (https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html#isaac-sim-latest-release) and installing as below:
 
-'''
+```
 mkdir ~/isaacsim
 cd ~/Downloads
 unzip "**file name**" -d ~/isaacsim
 cd ~/isaacsim
 ./post_install.sh
-'''
+```
 
 2. Start IsaacSim
 Source your ROS2 installation. When working from a sourced terminal, ROS2 will automatically be detected by omniverse.
 
-'''
+```
 source /opt/ros/humble/setup.bash
-'''
+```
 
 You may then start omniverse simulator, and select **Isaac Sim Full**
 
-'''
+```
 ./isaac-sim.selector.sh
-'''
+```
 
 **Note that the first start up will take a while. Subsequent starts will be much quicker.**
 
