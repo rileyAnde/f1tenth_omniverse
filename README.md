@@ -32,9 +32,13 @@ You may then start omniverse simulator, and select **Isaac Sim Full**
 3. Open USD file from this repository.
 Select File>open and open the USD file from this repo in omniverse. No need to save the current blank stage when it asks. The entire sim, along with ROS2 bridge, will load and be ready for use. Press play on left side to begin simulation, and open ROS2 topics.
 
-Topics:
+## Topics:
 /drive (ackermannStamped message to control car)
+
 /scan (laserscan message from lidar sensor)
+
 /odom (odometry message produced by sim)
+
 /rgb (rgb camera data)
+
 /depth (depth camera data)
