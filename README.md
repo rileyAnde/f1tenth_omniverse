@@ -15,6 +15,7 @@ cd ~/isaacsim
 ```
 
 2. Start IsaacSim
+
 Source your ROS2 installation. When working from a sourced terminal, ROS2 will automatically be detected by omniverse.
 
 ```
