@@ -14,7 +14,13 @@ cd ~/isaacsim
 ./post_install.sh
 ```
 
-2. Start IsaacSim
+2. Move lidar config into isaacsim
+ 
+```
+cp hokuyo.json ./isaacsim/exts/isaacsim.sensors.rtx/data/lidar_configs/NVIDIA/
+```
+
+3. Start IsaacSim
 
 Source your ROS2 installation. When working from a sourced terminal, ROS2 will automatically be detected by omniverse.
 
