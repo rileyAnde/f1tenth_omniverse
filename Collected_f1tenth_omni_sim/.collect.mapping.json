@@ -1,0 +1,47 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "/home/r478a194/isaacsim/exts/isaacsim.sensors.rtx/data/lidar_configs/NVIDIA/configure.py",
+            "source_hash": "6a53ca2ad0f55ca9e42c56288598a6999243ea28",
+            "target_url": "./home/r478a194/isaacsim/exts/isaacsim.sensors.rtx/data/lidar_configs/NVIDIA/configure.py",
+            "target_hash": "92c8773f36269e919cebcb334b41a5acf53bfa7c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Sensors/Slamtec/RPLidar_S2e.usd",
+            "source_hash": "fc34d577d13ef7ce15a15c167794395a30192318",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Sensors/Slamtec/RPLidar_S2e.usd",
+            "target_hash": "e5f99f5171bb2318a4991d502760e4d606d2a082"
+        },
+        {
+            "source_url": "/home/r478a194/Downloads/textures/8dd13bd2356379e2a38097f72b64648a.jpg",
+            "source_hash": "8cafb26d1da70a229e4f8d69139bef77b56d1fb1",
+            "target_url": "./home/r478a194/Downloads/textures/8dd13bd2356379e2a38097f72b64648a.jpg",
+            "target_hash": "687ee1c955c8640565ca58cd4c6aad410309fb2b"
+        },
+        {
+            "source_url": "/home/r478a194/Downloads/textures/1f10cfb3a24ecb3bb32a1aebb81f4660.jpg",
+            "source_hash": "8c0c7c186f1a1b7e749a3043de8ddfb633f3af4b",
+            "target_url": "./home/r478a194/Downloads/textures/1f10cfb3a24ecb3bb32a1aebb81f4660.jpg",
+            "target_hash": "b6037f8e70f738cecbe867d4204b1eeeaa86852a"
+        },
+        {
+            "source_url": "/home/r478a194/Downloads/textures/565e1f5a2ac178ecc3a7d51d688aad74.jpg",
+            "source_hash": "e0629617b71c653809277e4593d8d97ca1cdb029",
+            "target_url": "./home/r478a194/Downloads/textures/565e1f5a2ac178ecc3a7d51d688aad74.jpg",
+            "target_hash": "c5dd5138b9aaa5ec899c96c138e9aa096df07943"
+        },
+        {
+            "source_url": "/home/r478a194/Downloads/textures/977528258dfe9c2e2f0babc24a0d06cd.jpg",
+            "source_hash": "817a0deb37221b1b72003813f411c6cddc956e03",
+            "target_url": "./home/r478a194/Downloads/textures/977528258dfe9c2e2f0babc24a0d06cd.jpg",
+            "target_hash": "a2799b6ea7b44ed37080288d40977bfdab665b6e"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Sensors/Slamtec/materials/materials.usd",
+            "source_hash": "937d90d21f175fe4cee6d7e4f6d7f5579487d7b8",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Sensors/Slamtec/materials/materials.usd",
+            "target_hash": "46cbe976143ed6866d0c18b0e9e2a00ff5e10eec"
+        }
+    ]
+}
