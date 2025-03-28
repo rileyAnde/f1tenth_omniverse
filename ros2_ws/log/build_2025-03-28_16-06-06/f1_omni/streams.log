@@ -1,0 +1,22 @@
+[0.877s] Invoking command in '/home/r478a194/ros2_ws/src/f1_omni': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/r478a194/ros2_ws/build/f1_omni/prefix_override:/home/r478a194/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/r478a194/ros2_ws/install/f1_omni/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/f1_omni build --build-base /home/r478a194/ros2_ws/build/f1_omni/build install --record /home/r478a194/ros2_ws/build/f1_omni/install.log --single-version-externally-managed install_data
+[1.205s] running egg_info
+[1.207s] writing ../../build/f1_omni/f1_omni.egg-info/PKG-INFO
+[1.207s] writing dependency_links to ../../build/f1_omni/f1_omni.egg-info/dependency_links.txt
+[1.207s] writing entry points to ../../build/f1_omni/f1_omni.egg-info/entry_points.txt
+[1.207s] writing requirements to ../../build/f1_omni/f1_omni.egg-info/requires.txt
+[1.207s] writing top-level names to ../../build/f1_omni/f1_omni.egg-info/top_level.txt
+[1.210s] reading manifest file '../../build/f1_omni/f1_omni.egg-info/SOURCES.txt'
+[1.212s] writing manifest file '../../build/f1_omni/f1_omni.egg-info/SOURCES.txt'
+[1.212s] running build
+[1.212s] running build_py
+[1.212s] running install
+[1.213s] running install_lib
+[1.214s] running install_data
+[1.214s] running install_egg_info
+[1.216s] removing '/home/r478a194/ros2_ws/install/f1_omni/lib/python3.10/site-packages/f1_omni-0.0.0-py3.10.egg-info' (and everything under it)
+[1.216s] Copying ../../build/f1_omni/f1_omni.egg-info to /home/r478a194/ros2_ws/install/f1_omni/lib/python3.10/site-packages/f1_omni-0.0.0-py3.10.egg-info
+[1.217s] running install_scripts
+[1.241s] Installing crop script to /home/r478a194/ros2_ws/install/f1_omni/lib/f1_omni
+[1.241s] Installing tln script to /home/r478a194/ros2_ws/install/f1_omni/lib/f1_omni
+[1.241s] writing list of installed files to '/home/r478a194/ros2_ws/build/f1_omni/install.log'
+[1.268s] Invoked command in '/home/r478a194/ros2_ws/src/f1_omni' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/r478a194/ros2_ws/build/f1_omni/prefix_override:/home/r478a194/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/r478a194/ros2_ws/install/f1_omni/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/f1_omni build --build-base /home/r478a194/ros2_ws/build/f1_omni/build install --record /home/r478a194/ros2_ws/build/f1_omni/install.log --single-version-externally-managed install_data

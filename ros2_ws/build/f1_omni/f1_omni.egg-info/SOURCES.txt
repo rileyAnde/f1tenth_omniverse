@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/f1_omni/f1_omni.egg-info/PKG-INFO
+../../build/f1_omni/f1_omni.egg-info/SOURCES.txt
+../../build/f1_omni/f1_omni.egg-info/dependency_links.txt
+../../build/f1_omni/f1_omni.egg-info/entry_points.txt
+../../build/f1_omni/f1_omni.egg-info/requires.txt
+../../build/f1_omni/f1_omni.egg-info/top_level.txt
+../../build/f1_omni/f1_omni.egg-info/zip-safe
+f1_omni/TLN.py
+f1_omni/__init__.py
+f1_omni/crop_scan.py
+resource/f1_omni
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

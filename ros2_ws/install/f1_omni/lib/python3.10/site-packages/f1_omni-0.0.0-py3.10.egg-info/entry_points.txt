@@ -1,0 +1,4 @@
+[console_scripts]
+crop = f1_omni.crop_scan:main
+tln = f1_omni.TLN:main
+
